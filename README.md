@@ -49,7 +49,7 @@ The program:
 
 ## Files Included
 
-- spam.py`
+- `spam.py`
 - Email text files folder
 
 ## How to Run
